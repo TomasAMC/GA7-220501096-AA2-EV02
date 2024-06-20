@@ -1,0 +1,3 @@
+com\mycompany\ejemplo\resources\JakartaEE10Resource.class
+com\mycompany\ejemplo\JakartaRestConfiguration.class
+com\mycompany\ejemplo\servlets\LoginServlet.class
